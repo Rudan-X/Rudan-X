@@ -1,7 +1,7 @@
 ## Hi there :sunflower: I'm Rudan Xu
 
 🎓 PhD student at University of Potsdam & MPI-Molecular Plant Physiology  
-🌱 Research: Photosynthesis modeling, Genomic prediction, high-throughput phenotyping analysis  
+🌱 Research: Photosynthesis modeling, genomic prediction, high-throughput phenotyping analysis  
 💃 Languages: R | Python | MATLAB  
 📫 Contact: rudan.xu@uni-potsdam.de  
 
